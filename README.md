@@ -9,4 +9,4 @@
 
 > *向着星辰*，为你眼中的世界献上最美好的祝福。
 
-!(An image here)[./illust.jpg]
+![](./illust.jpg)
