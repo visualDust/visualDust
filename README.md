@@ -13,10 +13,10 @@
 <image src = './illust.jpg' width = 700></image>
 </b>
 <b>
-<image src='https://github-readme-stats.vercel.app/api?username=visualdust&show_icons=true&theme=' height= 150></image>
+<image src='https://github-readme-stats.vercel.app/api?username=visualdust&show_icons=true&theme=onedark' height= 150></image>
 </b>
 <b>
-<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact' height= 150></image>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=visualdust&layout=compact&theme=gruvbox' height= 150></image>
 </b>
 
 ---
