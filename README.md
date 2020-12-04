@@ -9,4 +9,16 @@
 
 > *向着星辰*，为你眼中的世界献上最美好的祝福。
 
-![](./illust.jpg)
+<b>
+<image src = './illust.jpg' width = 700></image>
+</b>
+<b>
+<image src='https://github-readme-stats.vercel.app/api?username=visualdust&show_icons=true&theme=' height= 150></image>
+</b>
+<b>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact' height= 150></image>
+</b>
+
+---
+
+* 请不要被这里的任何卡片欺骗。我的大部分代码并不在github...
