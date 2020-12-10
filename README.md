@@ -19,6 +19,10 @@
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=visualdust&layout=compact&theme=gruvbox' height= 150></image>
 </b>
 
+<image src='https://github-profile-trophy.vercel.app/?username=vISUALdUST&theme=monokai'></image>
+
+As U see, lazy enough...
+
 ---
 
 * 请不要被这里的任何卡片欺骗。我的大部分代码并不在github...
