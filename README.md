@@ -21,8 +21,6 @@
 
 <image src='https://github-profile-trophy.vercel.app/?username=vISUALdUST&theme=monokai'></image>
 
-As U see, lazy enough...
-
 ---
 
 * 请不要被这里的任何卡片欺骗。我的大部分代码并不在github...
