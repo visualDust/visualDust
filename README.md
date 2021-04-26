@@ -31,7 +31,7 @@
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=visualdust&layout=compact&theme=gruvbox' height= 141></image>
 </b>
 
-<image src='https://github-profile-trophy.vercel.app/?username=vISUALdUST&theme=monokai'></image>
+<image src='https://github-profile-trophy.vercel.app/?username=visualdust&theme=monokai'></image>
 
 ---
 
