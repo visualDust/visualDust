@@ -19,20 +19,11 @@ Keyboards and coffee makes me intrested.
 │ Ctrl│    │Alt │      VisualDust       │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
----
+
 * An rubbish undergraduate.  
 * Akasaki and his [friends](https://github.com/PaperFormulaIV) are currently focusing on Deep learning technique for Computer Vision from the morning🌇 to the next morning🌆.  
 * We all have a bright future.
 
-<b>
-<image src='https://github-readme-stats.vercel.app/api?username=visualdust&show_icons=true&theme=onedark' height= 141></image>
-</b>
-<b>
-<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=visualdust&layout=compact&theme=gruvbox' height= 141></image>
-</b>
-
 <image src='https://github-profile-trophy.vercel.app/?username=visualdust&no-frame=true&no-bg=false&theme=onedark'></image>
-
----
 
 请不要被这里的任何卡片欺骗。我的大部分代码并不在github...
