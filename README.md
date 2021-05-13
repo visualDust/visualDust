@@ -4,9 +4,6 @@ This is VisualDust aka MiyaAkasaki aka Akasakiの工具箱's github profile。
 Keyboards and coffee makes me intrested.
 
 ```
-┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐ ┌───────────────┐
-│Esc│   │ F1│ F2│ F3│ F4│ │ F5│ F6│ F7│ F8│ │ F9│F10│F11│F12│ │P/S│S L│P/B│ │  Miya Akasaki │
-└───┘   └───┴───┴───┴───┘ └───┴───┴───┴───┘ └───┴───┴───┴───┘ └───┴───┴───┘ └───────────────┘
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
 │~ `│! 1│@ 2│# 3│$ 4│% 5│^ 6│& 7│* 8│( 9│) 0│_ -│+ =│ BacSp │ │Ins│Hom│PUp│ │N L│ / │ * │ - │
 ├───┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─┴─┬─────┤ ├───┼───┼───┤ ├───┼───┼───┼───┤
@@ -21,7 +18,9 @@ Keyboards and coffee makes me intrested.
 ```
 
 * An rubbish undergraduate.  
-* Akasaki and his [friends](https://github.com/PaperFormulaIV) are currently focusing on Deep learning technique for Computer Vision from the morning🌇 to the next morning🌆.  
+* Currently focusing on Deep learning technique for Computer Vision
+* My [friends](https://github.com/PaperFormulaIV) working with me from the morning🌇 to the next morning🌆.  
+* Using Java Python C++, Learning ASP.NET and Computer Graphics.
 * We all have a bright future.
 
 <image src='https://github-profile-trophy.vercel.app/?username=visualdust&no-frame=true&no-bg=false&theme=onedark'></image>
