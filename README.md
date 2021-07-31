@@ -1,6 +1,6 @@
 # 早上好☕  
 
-This is VisualDust aka MiyaAkasaki aka Akasakiの工具箱's github profile。  
+I'm VisualDust aka MiyaAkasaki (｡•̀ᴗ-)✧.  
 Keyboards and coffee makes me intrested.
 
 ```
@@ -16,13 +16,12 @@ Keyboards and coffee makes me intrested.
 │ Ctrl│    │Alt │      VisualDust       │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
+VisualDust is: 
 
-* An rubbish undergraduate.  
-* Currently focusing on Deep learning technique for Computer Vision
-* My [friends](https://github.com/PaperFormulaIV) working with me from the morning🌇 to the next morning🌆.  
-* Using Java Python C++, Learning ASP.NET and Computer Graphics.
-* We all have a bright future.
+- An rubbish undergraduate.  
+- Currently focusing on Deep learning technique for Computer Vision.  
+- My [friends](https://github.com/PaperFormulaIV) working with me from the morning🌇 to the next morning🌆.  
+- Using Java Python C++, Learning ASP.NET and Computer Graphics.  
+- Trying to become a deep learning researcher.
 
-<image src='https://github-profile-trophy.vercel.app/?username=visualdust&no-frame=true&no-bg=false&theme=onedark'></image>
-
-请不要被这里的任何卡片欺骗。我的大部分代码并不在github...
+We all have a bright future.
