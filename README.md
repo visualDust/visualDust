@@ -1,7 +1,8 @@
 # 早上好☕  
 
-I'm VisualDust aka MiyaAkasaki (｡•̀ᴗ-)✧.  
-Keyboards and coffee makes me intrested.
+I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
+`Coffee` and `Customize keyboards` makes me intrested.  
+Also know my good [friends](https://github.com/PaperFormulaIV) working with me from morning🌇 to the next morning🌆.  
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
@@ -16,12 +17,12 @@ Keyboards and coffee makes me intrested.
 │ Ctrl│    │Alt │      VisualDust       │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
-VisualDust is: 
+I'm: 
 
 - An rubbish undergraduate.  
-- Currently focusing on Deep learning technique for Computer Vision.  
-- My [friends](https://github.com/PaperFormulaIV) working with me from the morning🌇 to the next morning🌆.  
-- Using Java Python C++, Learning ASP.NET and Computer Graphics.  
-- Trying to become a deep learning researcher.
+- Someone focusing on `Deep learning technique for Computer Vision`.  
+- Poor `Latex` speaker.  
+- Using `Java`, `Python` & `C++`, Learning `.NETcore`, `TypeScripts` and `ComputerGraphics`.  
+- Trying to become a __CVer__ and a __deep learning researcher__.
 
-We all have a bright future.
+We all have a bright future.  
