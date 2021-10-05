@@ -3,6 +3,7 @@
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
 `Coffee` and `Customize keyboards` makes me intrested.  
 Also know my good [friends](https://github.com/PaperFormulaIV) working with me from morning🌇 to the next morning🌆.  
+**Notice that** some of my previous works are unvisable now. For some reson I've made them private.  Later I'll make them public again.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
