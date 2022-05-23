@@ -1,9 +1,9 @@
 # 早上好☕  
 
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
-`Coffee` and `Customize keyboards` makes me intrested.  
-Also know my good [friends](https://github.com/PaperFormulaIV) working with me from morning🌇 to the next morning🌆.  
-**Notice that** some of my previous works are unvisable now. For some reson I've made them private.  Later I'll make them public again.
+`Coffee` and `Customized keyboards` makes me intrested.  
+See me at [Akasaki Focusing](https://gong.host) and [ml.akasaki](https://ml.akasaki.space). Also know my good [friends](https://github.com/neet-cv) working with me from morning🌇 to the next morning🌆.  
+**Notice that** some of my previous repositories are unvisable now. For some reson I've made them private. Later I'll make them public again.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
@@ -18,12 +18,12 @@ Also know my good [friends](https://github.com/PaperFormulaIV) working with me f
 │ Ctrl│    │Alt │      VisualDust       │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
-I'm: 
 
+I'm: 
 - An rubbish undergraduate.  
 - Someone focusing on `Deep learning technique for Computer Vision`.  
-- Poor `Latex` speaker.  
-- Using `Java`, `Python` & `C++`, Learning `.NETcore`, `TypeScripts` and `ComputerGraphics`.  
-- Trying to become a __CVer__ and a __deep learning researcher__.
+- Speaking `Java`, `Kotlin`, `Python`, `C++`, `C#`, `TypeScripts` and poor `Latex`.
+- Using [Tensorflow](https://www.tensorflow.org/), [Pytorch](https://pytorch.org/), [PaddlePaddle](https://www.paddlepaddle.org), [Dotnet](https://dotnet.microsoft.com/), [SpringBoot](https://spring.io/projects/spring-boot) and [React](https://github.com/facebook/react).  
+- Trying to become a __CVer__ and a __deep learning researcher__.  
 
 We all have a bright future.  
