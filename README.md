@@ -1,7 +1,7 @@
 # 早上好☕  
 
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
-`Coffee` and `Customized keyboards` makes me intrested.  
+`Coffee` and `Customized keyboard` makes me intrested.  
 See me at [Akasaki Focusing](https://gong.host) and [ml.akasaki](https://ml.akasaki.space). Also know my good [friends](https://github.com/neet-cv) working with me from morning🌇 to the next morning🌆.  
 **Notice that** some of my previous repositories are unvisable now. For some reson I've made them private. Later I'll make them public again.
 
@@ -20,7 +20,7 @@ See me at [Akasaki Focusing](https://gong.host) and [ml.akasaki](https://ml.akas
 ```
 
 I'm: 
-- An rubbish undergraduate.  
+- A rubbish undergraduate.  
 - Someone focusing on `Deep learning technique for Computer Vision`.  
 - Speaking `Java`, `Kotlin`, `Python`, `C++`, `C#`, `TypeScripts` and poor `Latex`.
 - Using [Tensorflow](https://www.tensorflow.org/), [Pytorch](https://pytorch.org/), [PaddlePaddle](https://www.paddlepaddle.org), [Dotnet](https://dotnet.microsoft.com/), [SpringBoot](https://spring.io/projects/spring-boot) and [React](https://github.com/facebook/react).  
