@@ -1,9 +1,10 @@
 # 早上好☕  
 
+**Attention**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made them private.
+
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
 `Coffee` and `Customized keyboard` makes me intrested.  
 See me at [my blogs](https://gong.host) and [ml.akasaki](https://ml.akasaki.space). Also know my good [friends](https://github.com/neet-cv) working with me.  
-**Notice that** some of my previous repositories are unvisable now. For some reson I've made them private. Later I'll make them public again.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
