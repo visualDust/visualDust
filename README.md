@@ -1,6 +1,6 @@
 # 早上好☕  
 
-**Attention**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made them private.
+**Attention**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made __35__ of them private.
 
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
 `Coffee` and `Customized keyboard` makes me intrested.  
