@@ -7,7 +7,7 @@ I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.
 See me at [my blogs](https://gong.host). Also know my good [friends](https://github.com/neet-cv) working with me.  
 
 Recently maintaining:
-- [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) A tool for logging, monitoring, managing, facilitating deep learning projects
+- [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
 - [ml.akasaki](https://ml.akasaki.space): (ZH_CN only) A community oriented notebook collection for computer vision.
 
 ```
