@@ -4,7 +4,11 @@
 
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
 `Coffee` and `Customized keyboard` makes me intrested.  
-See me at [my blogs](https://gong.host) and [ml.akasaki](https://ml.akasaki.space). Also know my good [friends](https://github.com/neet-cv) working with me.  
+See me at [my blogs](https://gong.host). Also know my good [friends](https://github.com/neet-cv) working with me.  
+
+Recently maintaining:
+- [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) A tool for logging, monitoring, managing, facilitating deep learning projects
+- [ml.akasaki](https://ml.akasaki.space): (ZH_CN only) A community oriented notebook collection for computer vision.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
@@ -26,6 +30,4 @@ I'm:
 - Someone focusing on `Deep learning technique for Computer Vision`.  
 - Speaking `Java`, `Kotlin`, `Python`, `C++`, `C#`, `TypeScripts`, ~~`Rust`~~, ~~`Golang`~~ and poor `Latex`.
 - Using ~~[Tensorflow](https://www.tensorflow.org/)~~, [Pytorch](https://pytorch.org/), [PaddlePaddle](https://www.paddlepaddle.org), [Dotnet](https://dotnet.microsoft.com/), ~~[SpringBoot](https://spring.io/projects/spring-boot)~~ and [React](https://github.com/facebook/react).  
-- Trying to become a __CVer__ and a __deep learning researcher__.  
-
-hopefully we all have a bright future.  
+- Trying to become a __CVer__ and a __deep learning researcher__. 
