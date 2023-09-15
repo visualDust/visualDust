@@ -1,4 +1,4 @@
-make**Attention**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made __35__ of them private.
+**Attention**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made __35__ of them private.
 
 ~~最近正在准备一些考试，短时间内不怎么写代码了~~
 
