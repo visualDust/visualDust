@@ -3,8 +3,16 @@
 ~~最近正在准备一些考试，短时间内不怎么写代码了~~
 
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
-`Coffee` and `Customized keyboard` makes me intrested.  
+`Coffee` and `Customized keyboard` make me interested.  
 See me at [my blogs](https://gavin.gong.host). 
+
+ORGs:
+- [NEET CV](https://github.com/neet-cv): Self taught computer vision Learners at school
+- [550W.HOST](https://github.com/550W-HOST): Domain name share holders and game partners
+- [GCTA](https://github.com/sanyuankexie): One of the largest student science and technology associations at school
+- [不会，咋办嘛](https://github.com/akasaki-is-a-rubbish): A driving auxiliary system empowered by deep learning techniques
+- [EtherProject](https://github.com/EtherProject): Ecological construction around Lua language
+- [CardinalProject](https://github.com/cardinaldevgroup) Fantasy AdenEngine
 
 Recently maintaining:
 - [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
