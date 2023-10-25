@@ -28,9 +28,9 @@ ORGs:
 - [550W.HOST](https://github.com/550W-HOST): Domain name shareholders and gaming partners in Minecraft, Mindustry, Battlefield2042 and so on
 - [GCTA](https://github.com/sanyuankexie): One of the largest student science and technology associations at school, with hundreds of active members all year around
 - [NEET CV](https://github.com/neet-cv): Self taught computer vision learners and project collaborators at school
-- [不会，咋办嘛](https://github.com/akasaki-is-a-rubbish): A driving auxiliary system empowered by deep learning techniques, with a group of maintainers from different majors.
+- [不会，咋办嘛](https://github.com/akasaki-is-a-rubbish): A driving auxiliary system empowered by deep learning techniques, with maintainers from different majors
 - [EtherProject](https://github.com/EtherProject): Ecological construction around Lua language, funny projects and love
-- [CardinalProject](https://github.com/cardinaldevgroup) Fantasy AdenEngine initiated by Voidmatrix, one of my friends
+- [CardinalProject](https://github.com/cardinaldevgroup) Fantasy AdenEngine initiated by [Voidmatrix](https://github.com/VoidmatrixHeathcliff)
 
 Recently maintaining:
 - [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
