@@ -4,7 +4,7 @@
 
 I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
 `Coffee` and `Customized keyboard` makes me intrested.  
-See me at [my blogs](https://gong.host) and my [tg channel](https://t.me/VisualDusts). Also know my good [friends](https://github.com/neet-cv) working with me.  
+See me at [my blogs](https://gavin.gong.host). 
 
 Recently maintaining:
 - [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
