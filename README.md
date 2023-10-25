@@ -2,21 +2,13 @@
 
 ~~最近正在准备一些考试，短时间内不怎么写代码了~~
 
-I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.  
-`Coffee` and `Customized keyboard` make me interested.  
-See me at [my blogs](https://gavin.gong.host). 
-
-ORGs:
-- [NEET CV](https://github.com/neet-cv): Self taught computer vision Learners at school
-- [550W.HOST](https://github.com/550W-HOST): Domain name share holders and game partners
-- [GCTA](https://github.com/sanyuankexie): One of the largest student science and technology associations at school
-- [不会，咋办嘛](https://github.com/akasaki-is-a-rubbish): A driving auxiliary system empowered by deep learning techniques
-- [EtherProject](https://github.com/EtherProject): Ecological construction around Lua language
-- [CardinalProject](https://github.com/cardinaldevgroup) Fantasy AdenEngine
-
-Recently maintaining:
-- [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
-- [ml.akasaki](https://ml.akasaki.space): (ZH_CN only) A community oriented notebook collection for computer vision.
+I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧. Also see [my blogs](https://gavin.gong.host). I'm a:  
+- A rubbish undergraduate.  
+- A keyboard lover.
+- Someone focusing on `Deep learning technique for Computer Vision`.  
+- Speaking `Java`, `Kotlin`, `Python`, `C++`, `C#`, `TypeScripts`, ~~`Rust`~~, ~~`Golang`~~ and poor `Latex`.
+- Using ~~[Tensorflow](https://www.tensorflow.org/)~~, [Pytorch](https://pytorch.org/), ~~[PaddlePaddle](https://www.paddlepaddle.org)~~, [Dotnet](https://dotnet.microsoft.com/), ~~[SpringBoot](https://spring.io/projects/spring-boot)~~ and [React](https://github.com/facebook/react).  
+- Trying to become a __CVer__ and a __deep learning researcher__. 
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
@@ -32,10 +24,14 @@ Recently maintaining:
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
 
-I'm: 
-- A rubbish undergraduate.  
-- A keyboard lover.
-- Someone focusing on `Deep learning technique for Computer Vision`.  
-- Speaking `Java`, `Kotlin`, `Python`, `C++`, `C#`, `TypeScripts`, ~~`Rust`~~, ~~`Golang`~~ and poor `Latex`.
-- Using ~~[Tensorflow](https://www.tensorflow.org/)~~, [Pytorch](https://pytorch.org/), ~~[PaddlePaddle](https://www.paddlepaddle.org)~~, [Dotnet](https://dotnet.microsoft.com/), ~~[SpringBoot](https://spring.io/projects/spring-boot)~~ and [React](https://github.com/facebook/react).  
-- Trying to become a __CVer__ and a __deep learning researcher__. 
+ORGs:
+- [NEET CV](https://github.com/neet-cv): Self taught computer vision Learners at school
+- [550W.HOST](https://github.com/550W-HOST): Domain name share holders and game partners
+- [GCTA](https://github.com/sanyuankexie): One of the largest student science and technology associations at school
+- [不会，咋办嘛](https://github.com/akasaki-is-a-rubbish): A driving auxiliary system empowered by deep learning techniques
+- [EtherProject](https://github.com/EtherProject): Ecological construction around Lua language
+- [CardinalProject](https://github.com/cardinaldevgroup) Fantasy AdenEngine
+
+Recently maintaining:
+- [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
+- [ml.akasaki](https://ml.akasaki.space): (ZH_CN only) A community oriented notebook collection for computer vision.
