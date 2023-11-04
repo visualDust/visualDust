@@ -1,8 +1,8 @@
-**Attention**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made __35__ of them private.
+I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧. 
 
-~~最近正在准备一些考试，短时间内不怎么写代码了~~
+Also see [my blogs](https://gavin.gong.host). 
 
-I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧. Also see [my blogs](https://gavin.gong.host). I'm a:  
+I'm a:  
 - A rubbish undergraduate.  
 - A keyboard lover.
 - Someone focusing on `Deep learning technique for Computer Vision`.  
@@ -35,3 +35,5 @@ ORGs:
 Recently maintaining:
 - [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
 - [ml.akasaki](https://ml.akasaki.space): (ZH_CN only) A community oriented notebook collection for computer vision.
+
+**Notice that**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made __35__ of them private.
