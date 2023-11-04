@@ -30,7 +30,6 @@ ORGs:
 - [NEET CV](https://github.com/neet-cv): Self taught computer vision learners and project collaborators at school
 - [不会，咋办嘛](https://github.com/akasaki-is-a-rubbish): A driving auxiliary system empowered by deep learning techniques, with maintainers from different majors
 - [EtherProject](https://github.com/EtherProject): Ecological construction around Lua language, funny projects and love
-- [CardinalProject](https://github.com/cardinaldevgroup) Fantasy AdenEngine initiated by [Voidmatrix](https://github.com/VoidmatrixHeathcliff)
 
 Recently maintaining:
 - [NEETBOX](https://github.com/visualDust/neetbox): (Just Started) provides tools for Logging/Debugging/Tracing/Managing/Facilitating your deep learning projects.
