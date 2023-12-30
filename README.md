@@ -1,14 +1,16 @@
-I'm `Gavin Gong` aka `VisualDust` aka `MiyaAkasaki` (｡•̀ᴗ-)✧. 
+# [VisualDust](https://gavin.gong.host)
+aka `Gavin Gong` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.   
 
-Also see [my blogs](https://gavin.gong.host). 
+-> [blog](https://gavin.gong.host)  
+-> [devices](https://browser.geekbench.com/user/423425)  
 
 I'm a:  
-- A rubbish undergraduate.  
+- An undergraduate.  
 - A keyboard lover.
-- Someone focusing on `Deep learning technique for Computer Vision`.  
-- Speaking `Java`, `Kotlin`, `Python`, `C++`, `C#`, `TypeScripts`, ~~`Rust`~~, ~~`Golang`~~ and poor `Latex`.
-- Using ~~[Tensorflow](https://www.tensorflow.org/)~~, [Pytorch](https://pytorch.org/), ~~[PaddlePaddle](https://www.paddlepaddle.org)~~, [Dotnet](https://dotnet.microsoft.com/), ~~[SpringBoot](https://spring.io/projects/spring-boot)~~ and [React](https://github.com/facebook/react).  
-- Trying to become a __CVer__ and a __deep learning researcher__. 
+- A half stack developer.
+- A poor `Python`, `C#`, `Java`, `Kotlin`, `C++`, `TypeScripts` and `Latex` speaker.
+- A [Pytorch](https://pytorch.org/), [Dotnet](https://dotnet.microsoft.com/), [React](https://github.com/facebook/react), ~~[Tensorflow](https://www.tensorflow.org/)~~, ~~[PaddlePaddle](https://www.paddlepaddle.org)~~, ~~[SpringBoot](https://spring.io/projects/spring-boot)~~ user.
+- A Computer Vision, Large Language Model, Unsupervised Learning, and ~~Generative Model~~ researcher.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
