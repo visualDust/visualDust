@@ -1,5 +1,5 @@
 [VisualDust](https://gavin.gong.host) aka `Gavin Gong` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.   
-
+[![wakatime](https://wakatime.com/badge/user/b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1.svg)](https://wakatime.com/@b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1)  
 -> [blog](https://gavin.gong.host)  
 -> [devices](https://browser.geekbench.com/user/423425)  
 
