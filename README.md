@@ -1,18 +1,17 @@
 [VisualDust](https://gavin.gong.host) aka `Gavin Gong` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.   
+
 [![wakatime](https://wakatime.com/badge/user/b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1.svg)](https://wakatime.com/@b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1)  
+
 -> [blog](https://gavin.gong.host)  
 -> [devices](https://browser.geekbench.com/user/423425)  
 
-recently maintaining:
-- [NEETBOX](https://neetbox.550w.host/) ([repo](https://github.com/visualDust/neetbox)): A tool box for Logging/Debugging/Tracing/Managing/Facilitating long running python projects, especially a replacement of tensorboard for deep learning projects.
-
 I'm a:  
-- An undergraduate.  
+- An undergraduate.
 - A keyboard lover.
 - A half stack developer.
 - A poor `Python`, `C#`, `Java`, `Kotlin`, `C++`, `TypeScripts` and `Latex` speaker.
 - A [Pytorch](https://pytorch.org/), [Dotnet](https://dotnet.microsoft.com/), [React](https://github.com/facebook/react), ~~[Tensorflow](https://www.tensorflow.org/)~~, ~~[PaddlePaddle](https://www.paddlepaddle.org)~~, ~~[SpringBoot](https://spring.io/projects/spring-boot)~~ user.
-- A Computer Vision, Large Language Model, Unsupervised Learning, and ~~Generative Model~~ researcher.
+- A Computer Vision, Large Language Model, Trustworthy and privacy-preserving AI computing and ~~Generative Model~~ player.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
