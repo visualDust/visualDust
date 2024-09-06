@@ -1,17 +1,17 @@
-[VisualDust](https://gavin.gong.host) aka `Gavin Gong` aka `MiyaAkasaki` (｡•̀ᴗ-)✧.   
+[VisualDust](https://www.gong.host) aka `Gavin Gong` (｡•̀ᴗ-)✧.   
 
 [![wakatime](https://wakatime.com/badge/user/b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1.svg)](https://wakatime.com/@b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1)  
 
--> [blog](https://gavin.gong.host)  
+-> [website](https://gavin.gong.host)  
 -> [devices](https://browser.geekbench.com/user/423425)  
 
 I'm a:  
-- An undergraduate.
+- An 1st year PhD student at NCSU CSC department.
 - A keyboard lover.
 - A half stack developer.
 - A poor `Python`, `C#`, `Java`, `Kotlin`, `C++`, `TypeScripts` and `Latex` speaker.
-- A [Pytorch](https://pytorch.org/), [Dotnet](https://dotnet.microsoft.com/), [React](https://github.com/facebook/react), ~~[Tensorflow](https://www.tensorflow.org/)~~, ~~[PaddlePaddle](https://www.paddlepaddle.org)~~, ~~[SpringBoot](https://spring.io/projects/spring-boot)~~ user.
-- A Computer Vision, Large Language Model, Trustworthy and privacy-preserving AI computing and ~~Generative Model~~ player.
+- A [Pytorch](https://pytorch.org/), [Dotnet](https://dotnet.microsoft.com/), [React](https://github.com/facebook/react) user.
+- Surviving against Privacy-preserving AI computing, Large Language Model, Computer Vision things.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
@@ -27,4 +27,4 @@ I'm a:
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
 
-**Notice that**: Some of my previous repositories are invisible now due to some publication issues or similar reasons. I've made __35__ of them private.
+**Notice that**: Some of my previous repositories are invisible now. I made them private.
