@@ -6,11 +6,11 @@
 -> [devices](https://browser.geekbench.com/user/423425)  
 
 I'm a:  
-- An 1st year PhD student at NCSU CSC department.
-- A keyboard lover.
-- A half stack developer.
-- A poor `Python`, `C#`, `Java`, `Kotlin`, `C++`, `TypeScripts` and `Latex` speaker.
-- A [Pytorch](https://pytorch.org/), [Dotnet](https://dotnet.microsoft.com/), [React](https://github.com/facebook/react) user.
+- 1st year PhD student at NCSU CSC department.
+- Keyboard lover.
+- Half stack developer.
+- Poor `Python`, `C#`, `Java`, `Kotlin`, `C++`, `TypeScripts` and `Latex` speaker.
+- [Pytorch](https://pytorch.org/), [Dotnet](https://dotnet.microsoft.com/), [React](https://github.com/facebook/react) user.
 - Surviving against Privacy-preserving AI computing, Large Language Model, Computer Vision things.
 
 ```
