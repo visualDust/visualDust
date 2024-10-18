@@ -24,4 +24,4 @@ I'm a:
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
 
-**Notice that**: Some of my previous repositories are invisible now. I made them private.
+![profile-contrib-3d](profile-3d-contrib/profile-season-animate.svg)
