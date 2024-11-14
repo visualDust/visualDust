@@ -4,9 +4,9 @@ I've been written code for [![wakatime](https://wakatime.com/badge/user/b93a26b6
 
 I'm a:  
 - 1st year PhD student at NCSU CSC department.
-- Keyboard lover.
 - Half stack developer.
-- Poor `Python`, `C#`, `Java`, `Kotlin`, `C++`, `TypeScripts` and `Latex` speaker.
+- Skilled `Python` speaker.
+- Poor `CUDA`, `C++`, `C#`, `Java/Kotlin`, `TypeScripts` speaker.
 - Pytorch, Dotnet, React user.
 - Surviving against Privacy-preserving AI computing, Large Language Model, Computer Vision things.
 
