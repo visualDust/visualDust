@@ -4,12 +4,9 @@ I've been written code for [![wakatime](https://wakatime.com/badge/user/b93a26b6
 
 I'm a:  
 - 1st year PhD student at NCSU CSC department.
-- Half stack developer.
-- Arch Linux user.
-- Skilled `Python` speaker.
-- Poor `CUDA`, `C++`, `C#`, `Java/Kotlin`, `TypeScripts` speaker.
-- Pytorch, Dotnet, React user.
-- Surviving against Privacy-preserving AI computing, Large Language Model, Computer Vision things.
+- Arch Linux user and half stack developer.
+- Skilled `Python` speaker and poor `CUDA`, `C++`, `C#`, `Java/Kotlin` speaker.
+- Surviving against Confidential (AI) Computing, Large Language Model, Computer Vision things.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
@@ -24,5 +21,3 @@ I'm a:
 │ Ctrl│    │Alt │      VisualDust       │ Alt│ Fn │    │Ctrl│ │ ← │ ↓ │ → │ │   0   │ . │←─┘│
 └─────┘    └────┴───────────────────────┴────┴────┘    └────┘ └───┴───┴───┘ └───────┴───┴───┘
 ```
-
-![profile-contrib-3d](profile-3d-contrib/profile-season-animate.svg)
