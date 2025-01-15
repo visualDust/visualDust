@@ -1,6 +1,6 @@
 [VisualDust](https://www.gong.host) aka `Gavin Gong` (｡•̀ᴗ-)✧.   
 
-I've been written code for [![wakatime](https://wakatime.com/badge/user/b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1.svg)](https://wakatime.com/@b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1)  
+[![wakatime](https://wakatime.com/badge/user/b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1.svg)](https://wakatime.com/@b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1)
 
 I'm a:  
 - 1st year PhD student at NCSU CSC department.
