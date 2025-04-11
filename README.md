@@ -1,12 +1,18 @@
-[VisualDust](https://www.gong.host) aka `Gavin Gong` (｡•̀ᴗ-)✧.   
+[VisualDust](https://www.gong.host) aka `Gavin Gong`
 
 [![wakatime](https://wakatime.com/badge/user/b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1.svg)](https://wakatime.com/@b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1)
 
 I'm a:  
 - 1st year PhD student at NCSU CSC department.
 - Arch Linux user and half stack developer.
-- Skilled `Python` speaker and poor `CUDA`, `C++`, `C#`, `Java/Kotlin` speaker.
-- Surviving against Confidential (AI) Computing, Large Language Model, Computer Vision things.
+- Skilled `Python` speaker and poor `CUDA`, `C++`, `C#`, `TypeScript React` speaker.
+- Surviving against Confidential (AI) Computing, Large Language Model, GPU Programming things.
+
+Links: [me](https://www.gong.host/), good [homie](https://550w.host/)
+
+Recently maintaining:
+- [NEETBOX](https://github.com/visualDust/neetbox): NEETBOX provides the visualization and tooling needed for machine learning experimentation. [website](neetbox.550w.host)
+- [tiberate-fhe](https://github.com/visualDust/tiberate-fhe): a variant of Desilo/liberate-fhe with better typing and more comprehensive Python frontend.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
