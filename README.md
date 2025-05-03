@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1.svg)](https://wakatime.com/@b93a26b6-8ea1-44ef-99ed-bcb6e2c732f1)
 
 I'm a:  
-- 1st year PhD student at NCSU CSC department.
+- *P*ermanent *H*ead *D*amage Student
 - Arch Linux user and half stack developer.
 - Skilled `Python` speaker and poor `CUDA`, `C++`, `C#`, `TypeScript React` speaker.
 - Surviving against Confidential (AI) Computing, Large Language Model, GPU Programming things.
