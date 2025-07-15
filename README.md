@@ -10,9 +10,6 @@ I'm a:
 
 Links: [me](https://www.gong.host/), good [homie](https://550w.host/)
 
-Recently maintaining:
-- [NEETBOX](https://github.com/visualDust/neetbox): NEETBOX provides the visualization and tooling needed for machine learning experimentation. [website](neetbox.550w.host)
-- [tiberate-fhe](https://github.com/visualDust/tiberate-fhe): a variant of Desilo/liberate-fhe with better typing, optimized GPU kernels, and more comprehensive Python frontend.
 
 ```
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───────┐ ┌───┬───┬───┐ ┌───┬───┬───┬───┐
